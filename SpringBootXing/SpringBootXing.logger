@@ -1,0 +1,15 @@
+2020-07-09 09:21:51.458  INFO 14432 --- [main] com.xing.XingApplication                 : Starting XingApplication on L8600100946731 with PID 14432 (G:\software\java\IdeaWorkSpace\wangpan\SpringBootXing\target\classes started by songxingxing in G:\software\java\IdeaWorkSpace\wangpan\SpringBootXing)
+2020-07-09 09:21:51.465  INFO 14432 --- [main] com.xing.XingApplication                 : No active profile set, falling back to default profiles: default
+2020-07-09 09:21:52.321  INFO 14432 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-07-09 09:21:52.324  INFO 14432 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-07-09 09:21:52.361  INFO 14432 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 18ms. Found 0 repository interfaces.
+2020-07-09 09:21:52.600  INFO 14432 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.kafka.annotation.KafkaBootstrapConfiguration' of type [org.springframework.kafka.annotation.KafkaBootstrapConfiguration$$EnhancerBySpringCGLIB$$18249deb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-09 09:21:52.836  INFO 14432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 09:21:52.858  INFO 14432 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 09:21:52.859  INFO 14432 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-07-09 09:21:52.867  INFO 14432 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;"G:\software\java\jdk1.8\bin;G:\software\java\jdk1.8\jre\bin";G:\software\Git\Git\cmd;%ZOOKEEPER_HOME%\bin;C:\Users\songxingxing\AppData\Local\Microsoft\WindowsApps;;.]
+2020-07-09 09:21:53.033  INFO 14432 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 09:21:53.033  INFO 14432 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1473 ms
+2020-07-09 09:21:53.882  INFO 14432 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 09:21:54.265  INFO 14432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 09:21:54.269  INFO 14432 --- [main] com.xing.XingApplication                 : Started XingApplication in 3.53 seconds (JVM running for 5.713)
